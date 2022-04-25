@@ -2,4 +2,4 @@
 Assignment for MIT 
 
 
-this was creating thinking through passing arguments to funtions, looping an array, and arrays in Memory.  
+this was created by thinking through passing arguments to functions, looping an array, and arrays in Memory.  
